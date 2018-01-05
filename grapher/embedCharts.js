@@ -5,7 +5,7 @@
         var link = document.createElement('link');
         link.type = 'text/css';
         link.rel = 'stylesheet';
-        link.href = '/grapher/assets/charts.bundle.5901556b7a533ff6b8e9.css';
+        link.href = '/grapher/assets/charts.bundle.daa123faf3a820f37046.css';
         document.head.appendChild(link);
 
         var hasPolyfill = false;
@@ -28,6 +28,6 @@
             if (hasPolyfill)
                 window.Grapher.embedAll();
         }
-        script.src = '/grapher/assets/charts.bundle.5901556b7a533ff6b8e9.js';
+        script.src = '/grapher/assets/charts.bundle.daa123faf3a820f37046.js';
         document.head.appendChild(script);
     
