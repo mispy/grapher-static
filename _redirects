@@ -1,3 +1,4 @@
+/grapher/latest /grapher/progress-towards-polio-eradication 302
 /grapher/16.config.json /grapher/suicide-rates-by-country.config.json
 /grapher/16 /grapher/suicide-rates-by-country 302
 /grapher/20.config.json /grapher/average-height-of-men-for-selected-countries.config.json
@@ -562,8 +563,8 @@
 /grapher/424 /grapher/extreme-poverty-EU-2008 302
 /grapher/425.config.json /grapher/share-of-population-who-have-ever-been-homeless-2003.config.json
 /grapher/425 /grapher/share-of-population-who-have-ever-been-homeless-2003 302
-/grapher/427.config.json /grapher/People experiencing homelessness in the USA, by sheltered status.config.json
-/grapher/427 /grapher/People experiencing homelessness in the USA, by sheltered status 302
+/grapher/427.config.json /grapher/number-of-homeless-people-by-shelter-status.config.json
+/grapher/427 /grapher/number-of-homeless-people-by-shelter-status 302
 /grapher/434.config.json /grapher/homeless-per-capita-us.config.json
 /grapher/434 /grapher/homeless-per-capita-us 302
 /grapher/435.config.json /grapher/number-of-unsheltered-homeless-people-per-100000-population.config.json
@@ -686,8 +687,8 @@
 /grapher/521 /grapher/weekly-hours-by-men-dedicated-to-home-production-in-the-usa 302
 /grapher/523.config.json /grapher/death-rates-from-air-pollution-per-100000.config.json
 /grapher/523 /grapher/death-rates-from-air-pollution-per-100000 302
-/grapher/525.config.json /grapher/annual-meat-consumption-per-person.config.json
-/grapher/525 /grapher/annual-meat-consumption-per-person 302
+/grapher/525.config.json /grapher/meat-supply-per-person.config.json
+/grapher/525 /grapher/meat-supply-per-person 302
 /grapher/529.config.json /grapher/death-rate-by-source-from-air-pollution.config.json
 /grapher/529 /grapher/death-rate-by-source-from-air-pollution 302
 /grapher/530.config.json /grapher/carbon-emission-intensity-of-economies.config.json
@@ -790,8 +791,8 @@
 /grapher/587 /grapher/energy-use-per-capita-vs-gdp-per-capita 302
 /grapher/589.config.json /grapher/fish-and-seafood-consumption-per-capita.config.json
 /grapher/589 /grapher/fish-and-seafood-consumption-per-capita 302
-/grapher/590.config.json /grapher/fish-and-seafood-consumption-vs-gdp-per-capita-int-.config.json
-/grapher/590 /grapher/fish-and-seafood-consumption-vs-gdp-per-capita-int- 302
+/grapher/590.config.json /grapher/fish-consumption-vs-gdp-per-capita.config.json
+/grapher/590 /grapher/fish-consumption-vs-gdp-per-capita 302
 /grapher/591.config.json /grapher/national-gdp.config.json
 /grapher/591 /grapher/national-gdp 302
 /grapher/592.config.json /grapher/shares-of-gdp-by-economic-sector.config.json
@@ -944,8 +945,8 @@
 /grapher/691 /grapher/residential-solar-pv-system-costs-by-country 302
 /grapher/692.config.json /grapher/the-long-term-energy-transition-in-europe.config.json
 /grapher/692 /grapher/the-long-term-energy-transition-in-europe 302
-/grapher/693.config.json /grapher/world-population-and-projected-growth-to-2100-by-age-group-in-thousands-of-people.config.json
-/grapher/693 /grapher/world-population-and-projected-growth-to-2100-by-age-group-in-thousands-of-people 302
+/grapher/693.config.json /grapher/world-population-and-projected-growth-to-2100-total-population-and-under-age-5.config.json
+/grapher/693 /grapher/world-population-and-projected-growth-to-2100-total-population-and-under-age-5 302
 /grapher/695.config.json /grapher/global-primary-energy-consumption-by-source-1800-2015.config.json
 /grapher/695 /grapher/global-primary-energy-consumption-by-source-1800-2015 302
 /grapher/696.config.json /grapher/co-emissions-in-imported-goods-as-a-share-of-domestic-emissions.config.json
@@ -1096,8 +1097,8 @@
 /grapher/784 /grapher/carbon-emission-intensity-vs-gdp-per-capita 302
 /grapher/785.config.json /grapher/share-of-land-area-used-for-agriculture.config.json
 /grapher/785 /grapher/share-of-land-area-used-for-agriculture 302
-/grapher/787.config.json /grapher/the-change-of-cereal-yield-vs-the-change-of-land-used-for-cereal-production-1961-2014.config.json
-/grapher/787 /grapher/the-change-of-cereal-yield-vs-the-change-of-land-used-for-cereal-production-1961-2014 302
+/grapher/787.config.json /grapher/change-of-cereal-yield-vs-land-used.config.json
+/grapher/787 /grapher/change-of-cereal-yield-vs-land-used 302
 /grapher/789.config.json /grapher/share-of-land-area-used-for-arable-agriculture.config.json
 /grapher/789 /grapher/share-of-land-area-used-for-arable-agriculture 302
 /grapher/790.config.json /grapher/share-of-children-younger-than-5-who-are-underweight-for-their-age.config.json
@@ -1658,8 +1659,8 @@
 /grapher/1108 /grapher/global-warming-potential-of-greenhouse-gases-over-100-year-timescale-gwp 302
 /grapher/1109.config.json /grapher/global-fatalities-from-aviation-accidents-and-hijackings.config.json
 /grapher/1109 /grapher/global-fatalities-from-aviation-accidents-and-hijackings 302
-/grapher/1110.config.json /grapher/number-of-fatal-airliner-accidents-and-hijacking-incidents.config.json
-/grapher/1110 /grapher/number-of-fatal-airliner-accidents-and-hijacking-incidents 302
+/grapher/1110.config.json /grapher/fatal-airliner-accidents.config.json
+/grapher/1110 /grapher/fatal-airliner-accidents 302
 /grapher/1111.config.json /grapher/number-of-air-transport-passengers-carried.config.json
 /grapher/1111 /grapher/number-of-air-transport-passengers-carried 302
 /grapher/1116.config.json /grapher/global-demand-for-education-global-population-younger-than-15-until-2100-according-to-wittgenstein-centres-ssp2-ft.config.json
@@ -1696,12 +1697,6 @@
 /grapher/1134 /grapher/total-fertility-rate-by-world-region-including-UN-projections-through-2100 302
 /grapher/1135.config.json /grapher/decade-in-which-smallpox-ceased-to-be-endemic-by-country.config.json
 /grapher/1135 /grapher/decade-in-which-smallpox-ceased-to-be-endemic-by-country 302
-/grapher/1136.config.json /grapher/metal-production-over-the-long-term.config.json
-/grapher/1136 /grapher/metal-production-over-the-long-term 302
-/grapher/1137.config.json /grapher/global-aluminium-production-vs-aluminium-price-index.config.json
-/grapher/1137 /grapher/global-aluminium-production-vs-aluminium-price-index 302
-/grapher/1138.config.json /grapher/global-gold-production-vs-gold-price-index.config.json
-/grapher/1138 /grapher/global-gold-production-vs-gold-price-index 302
 /grapher/1139.config.json /grapher/beef-and-buffalo-meat-consumption-per-person.config.json
 /grapher/1139 /grapher/beef-and-buffalo-meat-consumption-per-person 302
 /grapher/1140.config.json /grapher/projections-of-the-number-of-children-per-woman-by-education-scenario.config.json
@@ -2060,8 +2055,8 @@
 /grapher/1337 /grapher/precentage-enrolled-in-private-institutions-at-the-primary-education-level 302
 /grapher/1339.config.json /grapher/number-of-enrolled-children-in-pre-primary-education.config.json
 /grapher/1339 /grapher/number-of-enrolled-children-in-pre-primary-education 302
-/grapher/1340.config.json /grapher/all-staff-compensation-as-share-of-total-expenditure-in-public-institutions.config.json
-/grapher/1340 /grapher/all-staff-compensation-as-share-of-total-expenditure-in-public-institutions 302
+/grapher/1340.config.json /grapher/staff-compensation-as-share-of-total-expenditure-in-public-education-all-levels.config.json
+/grapher/1340 /grapher/staff-compensation-as-share-of-total-expenditure-in-public-education-all-levels 302
 /grapher/1341.config.json /grapher/official-entrance-age-to-pre-primary-education.config.json
 /grapher/1341 /grapher/official-entrance-age-to-pre-primary-education 302
 /grapher/1342.config.json /grapher/duration-of-pre-primary-education.config.json
@@ -2192,8 +2187,8 @@
 /grapher/1411 /grapher/cumulative-installed-wind-energy-capacity-gigawatts 302
 /grapher/1412.config.json /grapher/wind-energy-consumption-vs-installed-wind-energy-capacity.config.json
 /grapher/1412 /grapher/wind-energy-consumption-vs-installed-wind-energy-capacity 302
-/grapher/1413.config.json /grapher/number-of-patents-filed-for-renewable-energy-technologies.config.json
-/grapher/1413 /grapher/number-of-patents-filed-for-renewable-energy-technologies 302
+/grapher/1413.config.json /grapher/patents-filed-for-renewables.config.json
+/grapher/1413 /grapher/patents-filed-for-renewables 302
 /grapher/1414.config.json /grapher/patents-for-renewables-by-country.config.json
 /grapher/1414 /grapher/patents-for-renewables-by-country 302
 /grapher/1415.config.json /grapher/gdp-per-capita-clio-infra.config.json
@@ -2266,8 +2261,8 @@
 /grapher/1450 /grapher/alcohol-consumption-vs-gdp-per-capita 302
 /grapher/1452.config.json /grapher/annual-number-of-deaths-by-specific-cause-or-risk-factor.config.json
 /grapher/1452 /grapher/annual-number-of-deaths-by-specific-cause-or-risk-factor 302
-/grapher/1454.config.json /grapher/the-gender-wage-gap.config.json
-/grapher/1454 /grapher/the-gender-wage-gap 302
+/grapher/1454.config.json /grapher/gender-wage-gap-oecd.config.json
+/grapher/1454 /grapher/gender-wage-gap-oecd 302
 /grapher/1455.config.json /grapher/household-air-pollution-deaths-by-region.config.json
 /grapher/1455 /grapher/household-air-pollution-deaths-by-region 302
 /grapher/1456.config.json /grapher/annual-deaths-from-outdoor-air-pollution-by-region.config.json
@@ -2672,8 +2667,6 @@
 /grapher/1674 /grapher/proportion-of-women-in-ministerial-positions 302
 /grapher/1675.config.json /grapher/law-mandate-nondiscrimination-hiring.config.json
 /grapher/1675 /grapher/law-mandate-nondiscrimination-hiring 302
-/grapher/1676.config.json /grapher/law-mandate-equal-pay.config.json
-/grapher/1676 /grapher/law-mandate-equal-pay 302
 /grapher/1677.config.json /grapher/does-legislation-explicitly-criminalise-marital-rape.config.json
 /grapher/1677 /grapher/does-legislation-explicitly-criminalise-marital-rape 302
 /grapher/1678.config.json /grapher/gender-rights-to-property.config.json
@@ -2694,8 +2687,8 @@
 /grapher/1685 /grapher/microprocessor-clock-speed 302
 /grapher/1686.config.json /grapher/patents-usa-by-category.config.json
 /grapher/1686 /grapher/patents-usa-by-category 302
-/grapher/1687.config.json /grapher/deaths-from-hivaids-by-age-group.config.json
-/grapher/1687 /grapher/deaths-from-hivaids-by-age-group 302
+/grapher/1687.config.json /grapher/deaths-from-hiv-by-age.config.json
+/grapher/1687 /grapher/deaths-from-hiv-by-age 302
 /grapher/1688.config.json /grapher/world-population-and-projected-growth-to-2100-by-age-group-young-vs-working-age.config.json
 /grapher/1688 /grapher/world-population-and-projected-growth-to-2100-by-age-group-young-vs-working-age 302
 /grapher/1689.config.json /grapher/supercomputer-power-flops.config.json
@@ -2774,8 +2767,8 @@
 /grapher/1725 /grapher/deaths-from-diarrheal-diseases-by-age 302
 /grapher/1726.config.json /grapher/diarrheal-disease-death-rates.config.json
 /grapher/1726 /grapher/diarrheal-disease-death-rates 302
-/grapher/1727.config.json /grapher/diarrheal-disease-death-rates-by-age-per-100000.config.json
-/grapher/1727 /grapher/diarrheal-disease-death-rates-by-age-per-100000 302
+/grapher/1727.config.json /grapher/diarrheal-disease-death-rates-by-age.config.json
+/grapher/1727 /grapher/diarrheal-disease-death-rates-by-age 302
 /grapher/1728.config.json /grapher/drowning-deaths-by-age-group.config.json
 /grapher/1728 /grapher/drowning-deaths-by-age-group 302
 /grapher/1729.config.json /grapher/drowning-death-rates.config.json
@@ -2926,16 +2919,160 @@
 /grapher/1803 /grapher/saber-rating-of-education-policies-aimed-at-improving-school-accountability 302
 /grapher/1804.config.json /grapher/malaria-deaths-by-age.config.json
 /grapher/1804 /grapher/malaria-deaths-by-age 302
-/grapher/1805.config.json /grapher/half-index-total-land-area-alexander-et-al-2016.config.json
-/grapher/1805 /grapher/half-index-total-land-area-alexander-et-al-2016 302
-/grapher/1806.config.json /grapher/asses-hyde-fao-2017.config.json
-/grapher/1806 /grapher/asses-hyde-fao-2017 302
-/grapher/1808.config.json /grapher/horses-hyde-fao-2017.config.json
-/grapher/1808 /grapher/horses-hyde-fao-2017 302
-/grapher/1809.config.json /grapher/mules-hyde-fao-2017.config.json
-/grapher/1809 /grapher/mules-hyde-fao-2017 302
-/grapher/1810.config.json /grapher/energy-conversion-efficiency-alexander-et-al-2016.config.json
-/grapher/1810 /grapher/energy-conversion-efficiency-alexander-et-al-2016 302
+/grapher/1805.config.json /grapher/road-mortality-rate-comparison.config.json
+/grapher/1805 /grapher/road-mortality-rate-comparison 302
+/grapher/1806.config.json /grapher/law-mandate-equal-pay.config.json
+/grapher/1806 /grapher/law-mandate-equal-pay 302
+/grapher/1807.config.json /grapher/smoking-and-secondhand-deaths.config.json
+/grapher/1807 /grapher/smoking-and-secondhand-deaths 302
+/grapher/1808.config.json /grapher/secondhand-smoke-deaths-by-age.config.json
+/grapher/1808 /grapher/secondhand-smoke-deaths-by-age 302
+/grapher/1809.config.json /grapher/smoking-deaths-by-age.config.json
+/grapher/1809 /grapher/smoking-deaths-by-age 302
+/grapher/1810.config.json /grapher/death-rates-malaria.config.json
+/grapher/1810 /grapher/death-rates-malaria 302
+/grapher/1811.config.json /grapher/malaria-death-rates-by-age.config.json
+/grapher/1811 /grapher/malaria-death-rates-by-age 302
+/grapher/1812.config.json /grapher/share-of-students-at-end-of-lower-secondary-education-achieving-minimum-maths-proficiency-2010-2015.config.json
+/grapher/1812 /grapher/share-of-students-at-end-of-lower-secondary-education-achieving-minimum-maths-proficiency-2010-2015 302
+/grapher/1814.config.json /grapher/share-of-students-at-end-of-lower-secondary-education-achieving-minimum-reading-proficiency-2010-2015.config.json
+/grapher/1814 /grapher/share-of-students-at-end-of-lower-secondary-education-achieving-minimum-reading-proficiency-2010-2015 302
+/grapher/1815.config.json /grapher/share-of-students-in-early-primary-education-achieving-minimum-reading-proficiency-2010-2015.config.json
+/grapher/1815 /grapher/share-of-students-in-early-primary-education-achieving-minimum-reading-proficiency-2010-2015 302
+/grapher/1816.config.json /grapher/share-of-students-in-early-primary-education-achieving-minimum-math-proficiency-2010-2015.config.json
+/grapher/1816 /grapher/share-of-students-in-early-primary-education-achieving-minimum-math-proficiency-2010-2015 302
+/grapher/1817.config.json /grapher/share-of-students-at-end-of-primary-education-achieving-minimum-maths-proficiency-2010-2015.config.json
+/grapher/1817 /grapher/share-of-students-at-end-of-primary-education-achieving-minimum-maths-proficiency-2010-2015 302
+/grapher/1818.config.json /grapher/share-of-students-at-end-of-primary-education-achieving-minimum-reading-proficiency-2010-2015.config.json
+/grapher/1818 /grapher/share-of-students-at-end-of-primary-education-achieving-minimum-reading-proficiency-2010-2015 302
+/grapher/1820.config.json /grapher/womens-educational-attainment-vs-fertility-regression-line.config.json
+/grapher/1820 /grapher/womens-educational-attainment-vs-fertility-regression-line 302
+/grapher/1821.config.json /grapher/incidence-of-malaria.config.json
+/grapher/1821 /grapher/incidence-of-malaria 302
+/grapher/1822.config.json /grapher/malaria-death-rates.config.json
+/grapher/1822 /grapher/malaria-death-rates 302
+/grapher/1824.config.json /grapher/land-use-per-kilocalories.config.json
+/grapher/1824 /grapher/land-use-per-kilocalories 302
+/grapher/1825.config.json /grapher/malaria-deaths-comparisons.config.json
+/grapher/1825 /grapher/malaria-deaths-comparisons 302
+/grapher/1826.config.json /grapher/income-shares-by-quintile.config.json
+/grapher/1826 /grapher/income-shares-by-quintile 302
+/grapher/1827.config.json /grapher/malaria-deaths-by-region.config.json
+/grapher/1827 /grapher/malaria-deaths-by-region 302
+/grapher/1828.config.json /grapher/hiv-death-rates.config.json
+/grapher/1828 /grapher/hiv-death-rates 302
+/grapher/1829.config.json /grapher/hiv-death-rates-by-age.config.json
+/grapher/1829 /grapher/hiv-death-rates-by-age 302
+/grapher/1830.config.json /grapher/tuberculosis-deaths-by-age.config.json
+/grapher/1830 /grapher/tuberculosis-deaths-by-age 302
+/grapher/1831.config.json /grapher/tuberculosis-death-rates.config.json
+/grapher/1831 /grapher/tuberculosis-death-rates 302
+/grapher/1832.config.json /grapher/tuberculosis-death-rates-by-age.config.json
+/grapher/1832 /grapher/tuberculosis-death-rates-by-age 302
+/grapher/1833.config.json /grapher/number-of-homicide-deaths.config.json
+/grapher/1833 /grapher/number-of-homicide-deaths 302
+/grapher/1834.config.json /grapher/international-migrant-stock.config.json
+/grapher/1834 /grapher/international-migrant-stock 302
+/grapher/1835.config.json /grapher/income-share-held-by-richest-10.config.json
+/grapher/1835 /grapher/income-share-held-by-richest-10 302
+/grapher/1836.config.json /grapher/internally-displaced-persons-from-disasters.config.json
+/grapher/1836 /grapher/internally-displaced-persons-from-disasters 302
+/grapher/1837.config.json /grapher/parents-who-agree-with-spanking-to-discipline-a-child.config.json
+/grapher/1837 /grapher/parents-who-agree-with-spanking-to-discipline-a-child 302
+/grapher/1838.config.json /grapher/new-business-density.config.json
+/grapher/1838 /grapher/new-business-density 302
+/grapher/1839.config.json /grapher/dalys-disability-adjusted-life-years-all-ages-and-sexes.config.json
+/grapher/1839 /grapher/dalys-disability-adjusted-life-years-all-ages-and-sexes 302
+/grapher/1840.config.json /grapher/nitrous-oxide-emissions.config.json
+/grapher/1840 /grapher/nitrous-oxide-emissions 302
+/grapher/1841.config.json /grapher/gold-production.config.json
+/grapher/1841 /grapher/gold-production 302
+/grapher/1843.config.json /grapher/metal-production-long-term.config.json
+/grapher/1843 /grapher/metal-production-long-term 302
+/grapher/1844.config.json /grapher/suicide-vs-homicide-rate.config.json
+/grapher/1844 /grapher/suicide-vs-homicide-rate 302
+/grapher/1845.config.json /grapher/aviation-fatalities-per-million-passengers.config.json
+/grapher/1845 /grapher/aviation-fatalities-per-million-passengers 302
+/grapher/1846.config.json /grapher/fatal-accidents-per-million-flights.config.json
+/grapher/1846 /grapher/fatal-accidents-per-million-flights 302
+/grapher/1847.config.json /grapher/air-passengers-per-fatality.config.json
+/grapher/1847 /grapher/air-passengers-per-fatality 302
+/grapher/1848.config.json /grapher/estimates-of-undernourished-people-in-the-world-fao-2010-vs-2012.config.json
+/grapher/1848 /grapher/estimates-of-undernourished-people-in-the-world-fao-2010-vs-2012 302
+/grapher/1849.config.json /grapher/number-of-one-year-olds.config.json
+/grapher/1849 /grapher/number-of-one-year-olds 302
+/grapher/1850.config.json /grapher/number-injured-from-disasters.config.json
+/grapher/1850 /grapher/number-injured-from-disasters 302
+/grapher/1851.config.json /grapher/number-homeless-from-natural-disasters.config.json
+/grapher/1851 /grapher/number-homeless-from-natural-disasters 302
+/grapher/1852.config.json /grapher/number-affected-by-natural-disasters.config.json
+/grapher/1852 /grapher/number-affected-by-natural-disasters 302
+/grapher/1853.config.json /grapher/total-affected-by-natural-disasters.config.json
+/grapher/1853 /grapher/total-affected-by-natural-disasters 302
+/grapher/1854.config.json /grapher/crude-oil-exports.config.json
+/grapher/1854 /grapher/crude-oil-exports 302
+/grapher/1855.config.json /grapher/natural-gas-lng-exports.config.json
+/grapher/1855 /grapher/natural-gas-lng-exports 302
+/grapher/1859.config.json /grapher/natural-gas-pipeline-exports.config.json
+/grapher/1859 /grapher/natural-gas-pipeline-exports 302
+/grapher/1860.config.json /grapher/natural-resource-rents.config.json
+/grapher/1860 /grapher/natural-resource-rents 302
+/grapher/1861.config.json /grapher/ores-and-metals-exports.config.json
+/grapher/1861 /grapher/ores-and-metals-exports 302
+/grapher/1862.config.json /grapher/fuel-exports.config.json
+/grapher/1862 /grapher/fuel-exports 302
+/grapher/1863.config.json /grapher/natural-disaster-deaths.config.json
+/grapher/1863 /grapher/natural-disaster-deaths 302
+/grapher/1864.config.json /grapher/average-gdp-growth-rate-1960-2011-versus-gdp-per-capita-in-1960.config.json
+/grapher/1864 /grapher/average-gdp-growth-rate-1960-2011-versus-gdp-per-capita-in-1960 302
+/grapher/1865.config.json /grapher/the-predicted-number-of-people-in-extreme-poverty-until-2030.config.json
+/grapher/1865 /grapher/the-predicted-number-of-people-in-extreme-poverty-until-2030 302
+/grapher/1866.config.json /grapher/the-predicted-share-of-the-population-in-extreme-poverty-until-2030.config.json
+/grapher/1866 /grapher/the-predicted-share-of-the-population-in-extreme-poverty-until-2030 302
+/grapher/1867.config.json /grapher/the-predicted-number-people-in-extreme-poverty-until-2030.config.json
+/grapher/1867 /grapher/the-predicted-number-people-in-extreme-poverty-until-2030 302
+/grapher/1868.config.json /grapher/predicted-increases-in-population-until-2030.config.json
+/grapher/1868 /grapher/predicted-increases-in-population-until-2030 302
+/grapher/1869.config.json /grapher/global-progress-per-day.config.json
+/grapher/1869 /grapher/global-progress-per-day 302
+/grapher/1870.config.json /grapher/ease-of-doing-business-ranking-2018.config.json
+/grapher/1870 /grapher/ease-of-doing-business-ranking-2018 302
+/grapher/1872.config.json /grapher/suicide-vs-violent-deaths.config.json
+/grapher/1872 /grapher/suicide-vs-violent-deaths 302
+/grapher/1873.config.json /grapher/gdp-per-capita-vs-corruption-perception-index.config.json
+/grapher/1873 /grapher/gdp-per-capita-vs-corruption-perception-index 302
+/grapher/1875.config.json /grapher/gdp-per-capita-vs-investment-in-energy.config.json
+/grapher/1875 /grapher/gdp-per-capita-vs-investment-in-energy 302
+/grapher/1876.config.json /grapher/gdp-per-capita-vs-share-of-population-with-tertiary-schooling.config.json
+/grapher/1876 /grapher/gdp-per-capita-vs-share-of-population-with-tertiary-schooling 302
+/grapher/1877.config.json /grapher/trade-shares-by-type-of-trade.config.json
+/grapher/1877 /grapher/trade-shares-by-type-of-trade 302
+/grapher/1879.config.json /grapher/agricultural-producer-support.config.json
+/grapher/1879 /grapher/agricultural-producer-support 302
+/grapher/1880.config.json /grapher/agricultural-general-services-support.config.json
+/grapher/1880 /grapher/agricultural-general-services-support 302
+/grapher/1881.config.json /grapher/mismanaged-plastic-waste.config.json
+/grapher/1881 /grapher/mismanaged-plastic-waste 302
+/grapher/1882.config.json /grapher/gender-gap-in-average-wages-ilo.config.json
+/grapher/1882 /grapher/gender-gap-in-average-wages-ilo 302
+/grapher/1883.config.json /grapher/population-by-per-capita-household-income.config.json
+/grapher/1883 /grapher/population-by-per-capita-household-income 302
+/grapher/1884.config.json /grapher/female-share-of-low-pay-earners.config.json
+/grapher/1884 /grapher/female-share-of-low-pay-earners 302
+/grapher/1885.config.json /grapher/cardiovascular-death-rate-vs-gdp-per-capita.config.json
+/grapher/1885 /grapher/cardiovascular-death-rate-vs-gdp-per-capita 302
+/grapher/1886.config.json /grapher/drowning-death-rate-vs-gdp-per-capita.config.json
+/grapher/1886 /grapher/drowning-death-rate-vs-gdp-per-capita 302
+/grapher/1887.config.json /grapher/road-death-rate-vs-gdp-per-capita.config.json
+/grapher/1887 /grapher/road-death-rate-vs-gdp-per-capita 302
+/grapher/1888.config.json /grapher/malnutrition-death-rate-vs-gdp-per-capita.config.json
+/grapher/1888 /grapher/malnutrition-death-rate-vs-gdp-per-capita 302
+/grapher/1889.config.json /grapher/diarrheal-death-rates-vs-gdp-per-capita.config.json
+/grapher/1889 /grapher/diarrheal-death-rates-vs-gdp-per-capita 302
+/grapher/1890.config.json /grapher/diarrheal-death-rates-vs-sanitation.config.json
+/grapher/1890 /grapher/diarrheal-death-rates-vs-sanitation 302
+/grapher/1891.config.json /grapher/gender-gap-in-average-wages-2000-vs-2015.config.json
+/grapher/1891 /grapher/gender-gap-in-average-wages-2000-vs-2015 302
 /grapher/male-and-female-age-adjusted-suicide-rates-for-selected-countries-1950-2004.config.json /grapher/male-and-female-suicide-rate.config.json 302
 /grapher/male-and-female-age-adjusted-suicide-rates-for-selected-countries-1950-2004 /grapher/male-and-female-suicide-rate 302
 /grapher/the-share-of-the-population-suffering-from-depression-around-the-world-221.config.json /grapher/share-of-the-population-suffering-from-depression.config.json 302
@@ -2970,14 +3107,8 @@
 /grapher/breakdown-of-united-nations-peacekeeping-forces-around-the-world-1992-2014 /grapher/breakdown-of-united-nations-peacekeeping-forces 302
 /grapher/child-mortality-by-cause.config.json /grapher/global-child-deaths-by-cause.config.json 302
 /grapher/child-mortality-by-cause /grapher/global-child-deaths-by-cause 302
-/grapher/The hare of people living in extreme poverty vs GDP per capita, 2006 to 2015.config.json /grapher/poverty-vs-mean-schooling.config.json 302
-/grapher/The hare of people living in extreme poverty vs GDP per capita, 2006 to 2015 /grapher/poverty-vs-mean-schooling 302
 /grapher/global-child-mortality-by-cause.config.json /grapher/global-child-deaths-by-cause.config.json 302
 /grapher/global-child-mortality-by-cause /grapher/global-child-deaths-by-cause 302
-/grapher/Poverty decline without China_TEST.config.json /grapher/poverty-decline-without-china.config.json 302
-/grapher/Poverty decline without China_TEST /grapher/poverty-decline-without-china 302
-/grapher/Poverty decline without China.config.json /grapher/poverty-decline-without-china.config.json 302
-/grapher/Poverty decline without China /grapher/poverty-decline-without-china 302
 /grapher/number-of-internet-users-by-world-region-1990-2014.config.json /grapher/internet-users-by-world-region.config.json 302
 /grapher/number-of-internet-users-by-world-region-1990-2014 /grapher/internet-users-by-world-region 302
 /grapher/number-of-internet-users-by-world-region.config.json /grapher/internet-users-by-world-region.config.json 302
@@ -3078,8 +3209,8 @@
 /grapher/cumulative-co2-million-tonnes /grapher/cumulative-co-emissions 302
 /grapher/co2-emissions-per-year-gtco2year.config.json /grapher/annual-co-emissions-by-region.config.json 302
 /grapher/co2-emissions-per-year-gtco2year /grapher/annual-co-emissions-by-region 302
-/grapher/average-meat-consumption-per-person-kgyear.config.json /grapher/annual-meat-consumption-per-person.config.json 302
-/grapher/average-meat-consumption-per-person-kgyear /grapher/annual-meat-consumption-per-person 302
+/grapher/average-meat-consumption-per-person-kgyear.config.json /grapher/meat-supply-per-person.config.json 302
+/grapher/average-meat-consumption-per-person-kgyear /grapher/meat-supply-per-person 302
 /grapher/per-capita-energy-use-vs-share-of-population-in-extreme-poverty.config.json /grapher/energy-use-per-capita-vs-share-of-population-in-extreme-poverty.config.json 302
 /grapher/per-capita-energy-use-vs-share-of-population-in-extreme-poverty /grapher/energy-use-per-capita-vs-share-of-population-in-extreme-poverty 302
 /grapher/co2-emissions-per-capita-vs-the-share-of-people-living-in-poverty.config.json /grapher/co-emissions-per-capita-vs-the-share-of-people-living-in-extreme-poverty.config.json 302
@@ -3120,8 +3251,8 @@
 /grapher/global-co2-emissions-if-everyone-lived-like-the-average-citizen-in /grapher/global-co-emissions-if-everyone-lived-like-the-average-citizen-in 302
 /grapher/health-effects-of-energy-production-per-twh.config.json /grapher/health-effects-of-energy-production.config.json 302
 /grapher/health-effects-of-energy-production-per-twh /grapher/health-effects-of-energy-production 302
-/grapher/fish-and-seafood-consumption-vs-gdp-per-capita-ppp-int-.config.json /grapher/fish-and-seafood-consumption-vs-gdp-per-capita-int-.config.json 302
-/grapher/fish-and-seafood-consumption-vs-gdp-per-capita-ppp-int- /grapher/fish-and-seafood-consumption-vs-gdp-per-capita-int- 302
+/grapher/fish-and-seafood-consumption-vs-gdp-per-capita-ppp-int-.config.json /grapher/fish-consumption-vs-gdp-per-capita.config.json 302
+/grapher/fish-and-seafood-consumption-vs-gdp-per-capita-ppp-int- /grapher/fish-consumption-vs-gdp-per-capita 302
 /grapher/co-emissions-per-capita-vs-gdp-per-capita-ppp-international-.config.json /grapher/co-emissions-per-capita-vs-gdp-per-capita-international-.config.json 302
 /grapher/co-emissions-per-capita-vs-gdp-per-capita-ppp-international- /grapher/co-emissions-per-capita-vs-gdp-per-capita-international- 302
 /grapher/comparison-between-original-series-and-owid-new-series.config.json /grapher/various-measures-of-health-expenditure-as-share-of-gdp.config.json 302
@@ -3214,10 +3345,10 @@
 /grapher/tax-revenue-and-public-health-spending-in-developing-countries-per-capita-ppp-in /grapher/tax-revenue-per-capita-and-public-health-spending-per-capita-in-developing-countries-in 302
 /grapher/access-to-electricity-of-population.config.json /grapher/share-of-the-population-with-access-to-electricity.config.json 302
 /grapher/access-to-electricity-of-population /grapher/share-of-the-population-with-access-to-electricity 302
-/grapher/cereal-yield-vs-land-under-cereal-production.config.json /grapher/the-change-of-cereal-yield-vs-the-change-of-land-used-for-cereal-production-1961-2014.config.json 302
-/grapher/cereal-yield-vs-land-under-cereal-production /grapher/the-change-of-cereal-yield-vs-the-change-of-land-used-for-cereal-production-1961-2014 302
-/grapher/index-of-cereal-yield-vs-land-used-for-cereal-production-1961-2014.config.json /grapher/the-change-of-cereal-yield-vs-the-change-of-land-used-for-cereal-production-1961-2014.config.json 302
-/grapher/index-of-cereal-yield-vs-land-used-for-cereal-production-1961-2014 /grapher/the-change-of-cereal-yield-vs-the-change-of-land-used-for-cereal-production-1961-2014 302
+/grapher/cereal-yield-vs-land-under-cereal-production.config.json /grapher/change-of-cereal-yield-vs-land-used.config.json 302
+/grapher/cereal-yield-vs-land-under-cereal-production /grapher/change-of-cereal-yield-vs-land-used 302
+/grapher/index-of-cereal-yield-vs-land-used-for-cereal-production-1961-2014.config.json /grapher/change-of-cereal-yield-vs-land-used.config.json 302
+/grapher/index-of-cereal-yield-vs-land-used-for-cereal-production-1961-2014 /grapher/change-of-cereal-yield-vs-land-used 302
 /grapher/prevalence-of-night-blindness-in-children.config.json /grapher/prevalence-of-night-blindness-in-pre-school-children.config.json 302
 /grapher/prevalence-of-night-blindness-in-children /grapher/prevalence-of-night-blindness-in-pre-school-children 302
 /grapher/share-of-land-area-used-for-permanent-meadows-and-pastures-1961-2014.config.json /grapher/share-of-land-area-used-for-permanent-meadows-and-pastures.config.json 302
@@ -3310,14 +3441,12 @@
 /grapher/long-term-crop-yields-in-the-united-kingdom /grapher/long-term-cereal-yields-in-the-united-kingdom 302
 /grapher/milestones-of-womens-political-representation.config.json /grapher/ordered-milestones-of-womens-political-representation.config.json 302
 /grapher/milestones-of-womens-political-representation /grapher/ordered-milestones-of-womens-political-representation 302
-/grapher/Share of people experiencing homelessness (per 100,000 heads) in the USA 2007-2010..config.json /grapher/homeless-per-capita-us.config.json 302
-/grapher/Share of people experiencing homelessness (per 100,000 heads) in the USA 2007-2010. /grapher/homeless-per-capita-us 302
 /grapher/yields-change-vs-land-use-change.config.json /grapher/land-use-vs-yield-change-in-cereal-production.config.json 302
 /grapher/yields-change-vs-land-use-change /grapher/land-use-vs-yield-change-in-cereal-production 302
 /grapher/human-height-over-the-long-run-europe.config.json /grapher/human-heights-over-the-long-run.config.json 302
 /grapher/human-height-over-the-long-run-europe /grapher/human-heights-over-the-long-run 302
-/grapher/world-population-and-projected-growth-to-2100-by-age-group.config.json /grapher/world-population-and-projected-growth-to-2100-by-age-group-in-thousands-of-people.config.json 302
-/grapher/world-population-and-projected-growth-to-2100-by-age-group /grapher/world-population-and-projected-growth-to-2100-by-age-group-in-thousands-of-people 302
+/grapher/world-population-and-projected-growth-to-2100-by-age-group.config.json /grapher/world-population-and-projected-growth-to-2100-total-population-and-under-age-5.config.json 302
+/grapher/world-population-and-projected-growth-to-2100-by-age-group /grapher/world-population-and-projected-growth-to-2100-total-population-and-under-age-5 302
 /grapher/child-mortality-by-gender.config.json /grapher/child-mortality-by-sex.config.json 302
 /grapher/child-mortality-by-gender /grapher/child-mortality-by-sex 302
 /grapher/child-mortality-line-chart-by-gender.config.json /grapher/child-mortality-line-chart-by-sex.config.json 302
@@ -3530,8 +3659,6 @@
 /grapher/neonatal-mortality-rate-per-1000-live-births /grapher/neonatal-mortality-rate 302
 /grapher/coal-consumption-1965-2016.config.json /grapher/coal-consumption-by-region.config.json 302
 /grapher/coal-consumption-1965-2016 /grapher/coal-consumption-by-region 302
-/grapher/fertility-vs-child-mortality-by religion.config.json /grapher/fertility-vs-child-mortality-by-religion.config.json 302
-/grapher/fertility-vs-child-mortality-by religion /grapher/fertility-vs-child-mortality-by-religion 302
 /grapher/global-fossil-fuel-consumption-1800-2015.config.json /grapher/global-fossil-fuel-consumption.config.json 302
 /grapher/global-fossil-fuel-consumption-1800-2015 /grapher/global-fossil-fuel-consumption 302
 /grapher/global-primary-energy-consumption-1800-2015.config.json /grapher/global-primary-energy-consumption.config.json 302
@@ -3592,3 +3719,165 @@
 /grapher/total-alcohol-consumption-per-capita-liters-of-pure-alcohol /grapher/total-alcohol-consumption-per-capita-litres-of-pure-alcohol 302
 /grapher/deaths-by-cause-and-risk-factor.config.json /grapher/annual-number-of-deaths-by-specific-cause-or-risk-factor.config.json 302
 /grapher/deaths-by-cause-and-risk-factor /grapher/annual-number-of-deaths-by-specific-cause-or-risk-factor 302
+/grapher/world-population-with-and-without-haber-bosch-nitrogen.config.json /grapher/world-population-with-and-without-fertilizer.config.json 302
+/grapher/world-population-with-and-without-haber-bosch-nitrogen /grapher/world-population-with-and-without-fertilizer 302
+/grapher/age-standardized-death-rate-from-cardiovascular-diseases.config.json /grapher/age-standardized-death-rate-cardiovascular-disease.config.json 302
+/grapher/age-standardized-death-rate-from-cardiovascular-diseases /grapher/age-standardized-death-rate-cardiovascular-disease 302
+/grapher/incidence-of-managerial-or-professional-jobs-and-collective-bargaining-by-gender-blau-kahn-2017.config.json /grapher/the-shrinking-gender-gap-in-high-level-jobs-and-collective-barganing-coverage.config.json 302
+/grapher/incidence-of-managerial-or-professional-jobs-and-collective-bargaining-by-gender-blau-kahn-2017 /grapher/the-shrinking-gender-gap-in-high-level-jobs-and-collective-barganing-coverage 302
+/grapher/unadjusted-female-male-hourly-wage-ratios-by-percentile-blau-kahn-2017.config.json /grapher/the-gender-wage-ratio-in-different-income-percentiles.config.json 302
+/grapher/unadjusted-female-male-hourly-wage-ratios-by-percentile-blau-kahn-2017 /grapher/the-gender-wage-ratio-in-different-income-percentiles 302
+/grapher/women-are-overrepresented-in-low-wage-occupations.config.json /grapher/us-women-are-overrepresented-in-low-wage-occupations.config.json 302
+/grapher/women-are-overrepresented-in-low-wage-occupations /grapher/us-women-are-overrepresented-in-low-wage-occupations 302
+/grapher/total-damage-costs-from-global-natural-disasters.config.json /grapher/damage-costs-from-natural-disasters.config.json 302
+/grapher/total-damage-costs-from-global-natural-disasters /grapher/damage-costs-from-natural-disasters 302
+/grapher/economic-complexity-index.config.json /grapher/economic-complexity-index-eci-by-country-ranking.config.json 302
+/grapher/economic-complexity-index /grapher/economic-complexity-index-eci-by-country-ranking 302
+/grapher/economic-complexity-index-eci.config.json /grapher/economic-complexity-index-eci-by-country-ranking.config.json 302
+/grapher/economic-complexity-index-eci /grapher/economic-complexity-index-eci-by-country-ranking 302
+/grapher/students-who-cant-read-a-single-word.config.json /grapher/students-in-grade-2-who-cant-read-a-single-word-ca-2015.config.json 302
+/grapher/students-who-cant-read-a-single-word /grapher/students-in-grade-2-who-cant-read-a-single-word-ca-2015 302
+/grapher/annual-freshwater-withdrawals-total-of-internal-resources.config.json /grapher/freshwater-withdrawals-as-a-share-of-internal-resources.config.json 302
+/grapher/annual-freshwater-withdrawals-total-of-internal-resources /grapher/freshwater-withdrawals-as-a-share-of-internal-resources 302
+/grapher/students-in-grade-2-who-cant-read-a-single-word.config.json /grapher/students-in-grade-2-who-cant-read-a-single-word-ca-2015.config.json 302
+/grapher/students-in-grade-2-who-cant-read-a-single-word /grapher/students-in-grade-2-who-cant-read-a-single-word-ca-2015 302
+/grapher/global-demand-for-education-world-population-and-projected-growth-to-2100-by-age-group-in-thousands-of-people.config.json /grapher/global-demand-for-education-world-population-and-projected-growth-to-2100-by-age-group.config.json 302
+/grapher/global-demand-for-education-world-population-and-projected-growth-to-2100-by-age-group-in-thousands-of-people /grapher/global-demand-for-education-world-population-and-projected-growth-to-2100-by-age-group 302
+/grapher/number-of-teachers.config.json /grapher/number-of-teachers-across-education-levels.config.json 302
+/grapher/number-of-teachers /grapher/number-of-teachers-across-education-levels 302
+/grapher/total-number-of-teachers-across-education-levels.config.json /grapher/number-of-teachers-across-education-levels.config.json 302
+/grapher/total-number-of-teachers-across-education-levels /grapher/number-of-teachers-across-education-levels 302
+/grapher/wealth-per-capita-by-asset-type---world-bank-2017.config.json /grapher/total-wealth-per-capita-by-asset.config.json 302
+/grapher/wealth-per-capita-by-asset-type---world-bank-2017 /grapher/total-wealth-per-capita-by-asset 302
+/grapher/total-wealth.config.json /grapher/total-wealth-per-capita-by-income-groups-in-2014-us-dollars.config.json 302
+/grapher/total-wealth /grapher/total-wealth-per-capita-by-income-groups-in-2014-us-dollars 302
+/grapher/resource-and-socioeconomic-change-over-the-last-50-years.config.json /grapher/resource-and-socioeconomic-change-per-capita.config.json 302
+/grapher/resource-and-socioeconomic-change-over-the-last-50-years /grapher/resource-and-socioeconomic-change-per-capita 302
+/grapher/resource-social-econ-change-china.config.json /grapher/resource-socioeconomic-change.config.json 302
+/grapher/resource-social-econ-change-china /grapher/resource-socioeconomic-change 302
+/grapher/absolute-net-change-in-global-population.config.json /grapher/absolute-increase-global-population.config.json 302
+/grapher/absolute-net-change-in-global-population /grapher/absolute-increase-global-population 302
+/grapher/absolute-net-increase-in-global-population.config.json /grapher/absolute-increase-global-population.config.json 302
+/grapher/absolute-net-increase-in-global-population /grapher/absolute-increase-global-population 302
+/grapher/absolute-increase-in-global-population-per-year.config.json /grapher/absolute-increase-global-population.config.json 302
+/grapher/absolute-increase-in-global-population-per-year /grapher/absolute-increase-global-population 302
+/grapher/measures-of-national-savinginvestment-compared-to-gdp.config.json /grapher/various-measures-of-national-savinginvestment-compared-to-gdp-per-capita-in-international-dollars.config.json 302
+/grapher/measures-of-national-savinginvestment-compared-to-gdp /grapher/various-measures-of-national-savinginvestment-compared-to-gdp-per-capita-in-international-dollars 302
+/grapher/various-measures-of-national-savinginvestment-compared-to-gdp.config.json /grapher/various-measures-of-national-savinginvestment-compared-to-gdp-per-capita-in-international-dollars.config.json 302
+/grapher/various-measures-of-national-savinginvestment-compared-to-gdp /grapher/various-measures-of-national-savinginvestment-compared-to-gdp-per-capita-in-international-dollars 302
+/grapher/genuine-saving-1900-2000.config.json /grapher/genuine-savings-per-capita-in-international-dollars-1900-2000.config.json 302
+/grapher/genuine-saving-1900-2000 /grapher/genuine-savings-per-capita-in-international-dollars-1900-2000 302
+/grapher/genuine-saving-in-per-capita-1990-international-dollars-1900-2000.config.json /grapher/genuine-savings-per-capita-in-international-dollars-1900-2000.config.json 302
+/grapher/genuine-saving-in-per-capita-1990-international-dollars-1900-2000 /grapher/genuine-savings-per-capita-in-international-dollars-1900-2000 302
+/grapher/various-measures-of-national-savinginvestment-compared-to-gdp-in-per-capita-international-dollars.config.json /grapher/various-measures-of-national-savinginvestment-compared-to-gdp-per-capita-in-international-dollars.config.json 302
+/grapher/various-measures-of-national-savinginvestment-compared-to-gdp-in-per-capita-international-dollars /grapher/various-measures-of-national-savinginvestment-compared-to-gdp-per-capita-in-international-dollars 302
+/grapher/genuine-saving-in-per-capita-international-dollars-1900-2000.config.json /grapher/genuine-savings-per-capita-in-international-dollars-1900-2000.config.json 302
+/grapher/genuine-saving-in-per-capita-international-dollars-1900-2000 /grapher/genuine-savings-per-capita-in-international-dollars-1900-2000 302
+/grapher/genuine-saving-per-capita-in-international-dollars-1900-2000.config.json /grapher/genuine-savings-per-capita-in-international-dollars-1900-2000.config.json 302
+/grapher/genuine-saving-per-capita-in-international-dollars-1900-2000 /grapher/genuine-savings-per-capita-in-international-dollars-1900-2000 302
+/grapher/total-wealth-per-capita-by-income.config.json /grapher/total-wealth-per-capita-by-income-groups-in-2014-us-dollars.config.json 302
+/grapher/total-wealth-per-capita-by-income /grapher/total-wealth-per-capita-by-income-groups-in-2014-us-dollars 302
+/grapher/total-wealth-per-capita-by-income-in-2014-us-dollars.config.json /grapher/total-wealth-per-capita-by-income-groups-in-2014-us-dollars.config.json 302
+/grapher/total-wealth-per-capita-by-income-in-2014-us-dollars /grapher/total-wealth-per-capita-by-income-groups-in-2014-us-dollars 302
+/grapher/wealth-per-capita-by-asset-group-with-natural-capital-disaggregated.config.json /grapher/wealth-per-capita-by-asset-group-with-natural-capital-disaggregated-in-2014-us-dollars.config.json 302
+/grapher/wealth-per-capita-by-asset-group-with-natural-capital-disaggregated /grapher/wealth-per-capita-by-asset-group-with-natural-capital-disaggregated-in-2014-us-dollars 302
+/grapher/total-wealth-by-asset-group-in-billions-2014-us-dollars.config.json /grapher/total-wealth-by-asset-group-in-millions-2014-us-dollars.config.json 302
+/grapher/total-wealth-by-asset-group-in-billions-2014-us-dollars /grapher/total-wealth-by-asset-group-in-millions-2014-us-dollars 302
+/grapher/time-required-to-start-a-business-days.config.json /grapher/time-required-to-start-business.config.json 302
+/grapher/time-required-to-start-a-business-days /grapher/time-required-to-start-business 302
+/grapher/share-of-individuals-using-the-internet-1990-2015.config.json /grapher/share-of-individuals-using-the-internet.config.json 302
+/grapher/share-of-individuals-using-the-internet-1990-2015 /grapher/share-of-individuals-using-the-internet 302
+/grapher/percentage-of-firms-with-a-top-female-manager.config.json /grapher/share-firms-top-female-manager.config.json 302
+/grapher/percentage-of-firms-with-a-top-female-manager /grapher/share-firms-top-female-manager 302
+/grapher/adolescent-birth-rate-per-1000-women-aged-15-19.config.json /grapher/adolescent-birth-rate.config.json 302
+/grapher/adolescent-birth-rate-per-1000-women-aged-15-19 /grapher/adolescent-birth-rate 302
+/grapher/proportion-of-seats-held-by-women-in-national-parliaments.config.json /grapher/seats-held-by-women-in-national-parliaments.config.json 302
+/grapher/proportion-of-seats-held-by-women-in-national-parliaments /grapher/seats-held-by-women-in-national-parliaments 302
+/grapher/number-of-universities.config.json /grapher/number-of-universities-kz.config.json 302
+/grapher/number-of-universities /grapher/number-of-universities-kz 302
+/grapher/evolution-of-happiness-inequality-within-countries.config.json /grapher/evolution-of-happiness-inequality-within-countries-during-periods-of-uninterrupted-economic-growth.config.json 302
+/grapher/evolution-of-happiness-inequality-within-countries /grapher/evolution-of-happiness-inequality-within-countries-during-periods-of-uninterrupted-economic-growth 302
+/grapher/evolution-of-happiness-inequality-within-countries-with-uninterrupted-economic-growth.config.json /grapher/evolution-of-happiness-inequality-within-countries-during-periods-of-uninterrupted-economic-growth.config.json 302
+/grapher/evolution-of-happiness-inequality-within-countries-with-uninterrupted-economic-growth /grapher/evolution-of-happiness-inequality-within-countries-during-periods-of-uninterrupted-economic-growth 302
+/grapher/revenue-excluding-grants-of-gdp.config.json /grapher/total-government-revenue-of-gdp.config.json 302
+/grapher/revenue-excluding-grants-of-gdp /grapher/total-government-revenue-of-gdp 302
+/grapher/tax-revenue-of-gdp.config.json /grapher/proportion-of-domestic-budget-funded-by-domestic-taxes-of-gdp.config.json 302
+/grapher/tax-revenue-of-gdp /grapher/proportion-of-domestic-budget-funded-by-domestic-taxes-of-gdp 302
+/grapher/proportion-of-women-aged-1549-years-who-make-their-own-informed-decisions-for-their-own-health-care.config.json /grapher/proportion-of-women-who-make-their-own-informed-health-care-decisions.config.json 302
+/grapher/proportion-of-women-aged-1549-years-who-make-their-own-informed-decisions-for-their-own-health-care /grapher/proportion-of-women-who-make-their-own-informed-health-care-decisions 302
+/grapher/world-bank-gender-statistics---gender.config.json /grapher/law-mandate-nondiscrimination-hiring.config.json 302
+/grapher/world-bank-gender-statistics---gender /grapher/law-mandate-nondiscrimination-hiring 302
+/grapher/legislation-explicitly-criminalises-marital-rape-1yes-0no.config.json /grapher/does-legislation-explicitly-criminalise-marital-rape.config.json 302
+/grapher/legislation-explicitly-criminalises-marital-rape-1yes-0no /grapher/does-legislation-explicitly-criminalise-marital-rape 302
+/grapher/law-mandates-paid-or-unpaid-maternity-leave-1yes-0no.config.json /grapher/does-law-mandate-paid-or-unpaid-maternity-leave.config.json 302
+/grapher/law-mandates-paid-or-unpaid-maternity-leave-1yes-0no /grapher/does-law-mandate-paid-or-unpaid-maternity-leave 302
+/grapher/share-of-children-ages-13-15-who-report-being-bullied-last-month.config.json /grapher/share-of-children-ages-13-15-who-report-being-bullied.config.json 302
+/grapher/share-of-children-ages-13-15-who-report-being-bullied-last-month /grapher/share-of-children-ages-13-15-who-report-being-bullied 302
+/grapher/children-ages-13-15-who-report-being-in-a-school-fight-last-year.config.json /grapher/share-of-children-ages-13-15-who-report-being-in-a-school-fight-last-year.config.json 302
+/grapher/children-ages-13-15-who-report-being-in-a-school-fight-last-year /grapher/share-of-children-ages-13-15-who-report-being-in-a-school-fight-last-year 302
+/grapher/annual-number-of-deaths-in-under-5s.config.json /grapher/causes-of-death-in-under-5s.config.json 302
+/grapher/annual-number-of-deaths-in-under-5s /grapher/causes-of-death-in-under-5s 302
+/grapher/deaths-from-road-accidents-per-100000.config.json /grapher/death-rates-road-accidents.config.json 302
+/grapher/deaths-from-road-accidents-per-100000 /grapher/death-rates-road-accidents 302
+/grapher/staff-compensation-as-share-of-total-expenditure-in-primary-public-education.config.json /grapher/gdp-per-capita-vs-staff-compensation-as-share-of-total-expenditure-in-primary-public-education.config.json 302
+/grapher/staff-compensation-as-share-of-total-expenditure-in-primary-public-education /grapher/gdp-per-capita-vs-staff-compensation-as-share-of-total-expenditure-in-primary-public-education 302
+/grapher/all-staff-compensation-as-of-total-expenditure-in-primary-public-institutions.config.json /grapher/staff-compensation-share-primary-spending.config.json 302
+/grapher/all-staff-compensation-as-of-total-expenditure-in-primary-public-institutions /grapher/staff-compensation-share-primary-spending 302
+/grapher/primary-enrolment-data-available-at-last-cutoff.config.json /grapher/is-primary-enrolment-data-available-in-the-global-education-monitoring-report-2018.config.json 302
+/grapher/primary-enrolment-data-available-at-last-cutoff /grapher/is-primary-enrolment-data-available-in-the-global-education-monitoring-report-2018 302
+/grapher/is-primary-enrolment-data-available-in-global-monitoring-report-2018.config.json /grapher/is-primary-enrolment-data-available-in-the-global-education-monitoring-report-2018.config.json 302
+/grapher/is-primary-enrolment-data-available-in-global-monitoring-report-2018 /grapher/is-primary-enrolment-data-available-in-the-global-education-monitoring-report-2018 302
+/grapher/is-primary-enrolment-data-available-in-the-global-monitoring-report-2018.config.json /grapher/is-primary-enrolment-data-available-in-the-global-education-monitoring-report-2018.config.json 302
+/grapher/is-primary-enrolment-data-available-in-the-global-monitoring-report-2018 /grapher/is-primary-enrolment-data-available-in-the-global-education-monitoring-report-2018 302
+/grapher/share-of-financial-sector-workers-by-gdp-per-capita.config.json /grapher/share-of-population-working-in-the-financial-sector-by-gdp-per-capita.config.json 302
+/grapher/share-of-financial-sector-workers-by-gdp-per-capita /grapher/share-of-population-working-in-the-financial-sector-by-gdp-per-capita 302
+/grapher/sdg-4-indicators-by-available-sources.config.json /grapher/data-availability-for-indicators-in-the-sdg-4.config.json 302
+/grapher/sdg-4-indicators-by-available-sources /grapher/data-availability-for-indicators-in-the-sdg-4 302
+/grapher/share-of-financial-sector-workers-in-the-population-by-gdp-per-capita.config.json /grapher/share-of-population-working-in-the-financial-sector-by-gdp-per-capita.config.json 302
+/grapher/share-of-financial-sector-workers-in-the-population-by-gdp-per-capita /grapher/share-of-population-working-in-the-financial-sector-by-gdp-per-capita 302
+/grapher/sdg-4-indicators-by-sources-available.config.json /grapher/data-availability-for-indicators-in-the-sdg-4.config.json 302
+/grapher/sdg-4-indicators-by-sources-available /grapher/data-availability-for-indicators-in-the-sdg-4 302
+/grapher/exports-of-goods-and-services-of-gdp-vs-poverty-headcount-at-190-a-day-2011-ppp-world-bank-wdi-2015.config.json /grapher/poverty-headcount-ratio-at-190-by-exports-share-in-gdp.config.json 302
+/grapher/exports-of-goods-and-services-of-gdp-vs-poverty-headcount-at-190-a-day-2011-ppp-world-bank-wdi-2015 /grapher/poverty-headcount-ratio-at-190-by-exports-share-in-gdp 302
+/grapher/poverty-headcount-at-190-a-day-2011-ppp-world-bank-wdi-2015-vs-exports-of-goods-and-services-of-gdp.config.json /grapher/poverty-headcount-ratio-at-190-by-exports-share-in-gdp.config.json 302
+/grapher/poverty-headcount-at-190-a-day-2011-ppp-world-bank-wdi-2015-vs-exports-of-goods-and-services-of-gdp /grapher/poverty-headcount-ratio-at-190-by-exports-share-in-gdp 302
+/grapher/poverty-headcount-ratio-at-190-a-day-2011-ppp-by-country-income-group-and-region-world-bank-wdi-2017-vs-exports-of-goods-and-services-of-gdp.config.json /grapher/poverty-headcount-ratio-at-190-by-exports-share-in-gdp.config.json 302
+/grapher/poverty-headcount-ratio-at-190-a-day-2011-ppp-by-country-income-group-and-region-world-bank-wdi-2017-vs-exports-of-goods-and-services-of-gdp /grapher/poverty-headcount-ratio-at-190-by-exports-share-in-gdp 302
+/grapher/law-mandates-nondiscrimination-based-on-gender-in-hiring-1yes-0no.config.json /grapher/law-mandate-nondiscrimination-hiring.config.json 302
+/grapher/law-mandates-nondiscrimination-based-on-gender-in-hiring-1yes-0no /grapher/law-mandate-nondiscrimination-hiring 302
+/grapher/married-men-and-married-women-have-equal-ownership-rights-to-property-1yes-0no.config.json /grapher/gender-rights-to-property.config.json 302
+/grapher/married-men-and-married-women-have-equal-ownership-rights-to-property-1yes-0no /grapher/gender-rights-to-property 302
+/grapher/married-women-are-required-by-law-to-obey-their-husbands-1yes-0no.config.json /grapher/women-required-to-obey-husband.config.json 302
+/grapher/married-women-are-required-by-law-to-obey-their-husbands-1yes-0no /grapher/women-required-to-obey-husband 302
+/grapher/nondiscrimination-clause-mentions-gender-in-the-constitution-1yes-0no.config.json /grapher/nondiscrimination-clause-gender.config.json 302
+/grapher/nondiscrimination-clause-mentions-gender-in-the-constitution-1yes-0no /grapher/nondiscrimination-clause-gender 302
+/grapher/womans-testimony-carries-the-same-evidentiary-weight-in-court-as-a-mans-1yes-0no.config.json /grapher/testimony-weight-gender.config.json 302
+/grapher/womans-testimony-carries-the-same-evidentiary-weight-in-court-as-a-mans-1yes-0no /grapher/testimony-weight-gender 302
+/grapher/percentage-of-students-achieving-minimum-proficiency-in-reading.config.json /grapher/share-of-students-at-end-of-lower-secondary-education-achieving-minimum-reading-proficiency-2010-2015.config.json 302
+/grapher/percentage-of-students-achieving-minimum-proficiency-in-reading /grapher/share-of-students-at-end-of-lower-secondary-education-achieving-minimum-reading-proficiency-2010-2015 302
+/grapher/share-of-students-in-early-primary-education-achieving-minimum-maths-proficiency-2010-2015.config.json /grapher/share-of-students-in-early-primary-education-achieving-minimum-reading-proficiency-2010-2015.config.json 302
+/grapher/share-of-students-in-early-primary-education-achieving-minimum-maths-proficiency-2010-2015 /grapher/share-of-students-in-early-primary-education-achieving-minimum-reading-proficiency-2010-2015 302
+/grapher/world-population-and-projected-growth-to-2100-by-age-group-in-thousands-of-people.config.json /grapher/world-population-and-projected-growth-to-2100-total-population-and-under-age-5.config.json 302
+/grapher/world-population-and-projected-growth-to-2100-by-age-group-in-thousands-of-people /grapher/world-population-and-projected-growth-to-2100-total-population-and-under-age-5 302
+/grapher/diarrheal-disease-death-rates-by-age-per-100000.config.json /grapher/diarrheal-disease-death-rates-by-age.config.json 302
+/grapher/diarrheal-disease-death-rates-by-age-per-100000 /grapher/diarrheal-disease-death-rates-by-age 302
+/grapher/annual-meat-consumption-per-person.config.json /grapher/meat-supply-per-person.config.json 302
+/grapher/annual-meat-consumption-per-person /grapher/meat-supply-per-person 302
+/grapher/deaths-from-hivaids-by-age-group.config.json /grapher/deaths-from-hiv-by-age.config.json 302
+/grapher/deaths-from-hivaids-by-age-group /grapher/deaths-from-hiv-by-age 302
+/grapher/number-of-patents-filed-for-renewable-energy-technologies.config.json /grapher/patents-filed-for-renewables.config.json 302
+/grapher/number-of-patents-filed-for-renewable-energy-technologies /grapher/patents-filed-for-renewables 302
+/grapher/parents-who-favor-spanking-to-discipline-a-child.config.json /grapher/parents-who-agree-with-spanking-to-discipline-a-child.config.json 302
+/grapher/parents-who-favor-spanking-to-discipline-a-child /grapher/parents-who-agree-with-spanking-to-discipline-a-child 302
+/grapher/all-staff-compensation-as-share-of-total-expenditure-in-public-institutions.config.json /grapher/staff-compensation-as-share-of-total-expenditure-in-public-education-all-levels.config.json 302
+/grapher/all-staff-compensation-as-share-of-total-expenditure-in-public-institutions /grapher/staff-compensation-as-share-of-total-expenditure-in-public-education-all-levels 302
+/grapher/fish-and-seafood-consumption-vs-gdp-per-capita-int-.config.json /grapher/fish-consumption-vs-gdp-per-capita.config.json 302
+/grapher/fish-and-seafood-consumption-vs-gdp-per-capita-int- /grapher/fish-consumption-vs-gdp-per-capita 302
+/grapher/number-of-fatal-airliner-accidents-and-hijacking-incidents.config.json /grapher/fatal-airliner-accidents.config.json 302
+/grapher/number-of-fatal-airliner-accidents-and-hijacking-incidents /grapher/fatal-airliner-accidents 302
+/grapher/the-change-of-cereal-yield-vs-the-change-of-land-used-for-cereal-production-1961-2014.config.json /grapher/change-of-cereal-yield-vs-land-used.config.json 302
+/grapher/the-change-of-cereal-yield-vs-the-change-of-land-used-for-cereal-production-1961-2014 /grapher/change-of-cereal-yield-vs-land-used 302
+/grapher/gender-gap-in-average-wages.config.json /grapher/gender-gap-in-average-wages-ilo.config.json 302
+/grapher/gender-gap-in-average-wages /grapher/gender-gap-in-average-wages-ilo 302
+/grapher/the-gender-wage-gap.config.json /grapher/gender-wage-gap-oecd.config.json 302
+/grapher/the-gender-wage-gap /grapher/gender-wage-gap-oecd 302
