@@ -1,6 +1,6 @@
 
         window.App = {};
-        window.Global = { rootUrl: 'undefined/grapher' };
+        window.Global = { rootUrl: 'https://test-grapher.netlify.com/grapher' };
 
         var link = document.createElement('link');
         link.type = 'text/css';
