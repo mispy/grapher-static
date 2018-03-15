@@ -5,7 +5,7 @@
         var link = document.createElement('link');
         link.type = 'text/css';
         link.rel = 'stylesheet';
-        link.href = 'https://test-grapher.netlify.com/grapher/assets/charts.css?v=charts.bundle.583e32359d3eafd273c4.css';
+        link.href = 'https://test-grapher.netlify.com/grapher/assets/charts.css?v=charts.bundle.e0ea3e2c014a4fa3f12e.css';
         document.head.appendChild(link);
 
         var hasPolyfill = false;
@@ -28,6 +28,6 @@
             if (hasPolyfill)
                 window.Grapher.embedAll();
         }
-        script.src = 'https://test-grapher.netlify.com/grapher/assets/charts.js?v=charts.bundle.583e32359d3eafd273c4.js';
+        script.src = 'https://test-grapher.netlify.com/grapher/assets/charts.js?v=charts.bundle.e0ea3e2c014a4fa3f12e.js';
         document.head.appendChild(script);
     
