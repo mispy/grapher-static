@@ -27,7 +27,7 @@
         var script = document.createElement('script');
         script.type = 'text/javascript';
         script.onload = checkReady;
-        script.src = 'https://test-grapher.netlify.com/grapher/assets/commons.js';
+        script.src = 'https://test-grapher.netlify.com/grapher/assets/commons.js?v=commons.bundle.90c169ad51ecf04c4835.js';
         document.head.appendChild(script);
 
         var script = document.createElement('script');
