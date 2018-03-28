@@ -33,5 +33,6 @@ When both sources have the same estimate the values fall on the grey line." /><m
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/child-mortality-rate-ihme-vs-un-estimates.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

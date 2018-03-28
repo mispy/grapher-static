@@ -30,5 +30,6 @@
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/the-flynn-effect-gains-in-mean-iq-intelligence-quotient-for-world-regions-1909-2013.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

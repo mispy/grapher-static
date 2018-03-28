@@ -33,5 +33,6 @@ level 4 (higher than 553); level 5 (higher than 626); and level 6 (higher than 6
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/pisa-scores-of-15-year-olds-by-reading-proficiency-level.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

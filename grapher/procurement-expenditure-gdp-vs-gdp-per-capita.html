@@ -33,5 +33,6 @@ GDP per capita in the horizontal axis is measured in current US dollars. " /><me
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/procurement-expenditure-gdp-vs-gdp-per-capita.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

@@ -33,5 +33,6 @@ that is covered by designated protected areas. " /><meta name="twitter:image" co
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/proportion-of-important-sites-for-terrestrial-biodiversity-covered-by-protected-areas.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

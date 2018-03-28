@@ -30,5 +30,6 @@
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/technology-adoption-by-households-in-the-united-states.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

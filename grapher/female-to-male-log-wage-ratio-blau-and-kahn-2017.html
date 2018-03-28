@@ -30,5 +30,6 @@
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/female-to-male-log-wage-ratio-blau-and-kahn-2017.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

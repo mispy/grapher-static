@@ -36,5 +36,6 @@ populations. This is shown for those under 18 years old, by sex." /><meta name="
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/victims-of-human-trafficking-under-18-male-vs-female.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

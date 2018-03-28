@@ -33,5 +33,6 @@ Official Development Assistance (ODA) from all donors for aid for trade. This is
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/total-oda-for-aid-for-trade-by-recipient.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

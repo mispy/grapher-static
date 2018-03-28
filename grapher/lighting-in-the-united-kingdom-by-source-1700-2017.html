@@ -30,5 +30,6 @@
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/lighting-in-the-united-kingdom-by-source-1700-2017.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

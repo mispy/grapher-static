@@ -30,5 +30,6 @@
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/daily-protein-supply-of-animal-origin-vs-plant-origin.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

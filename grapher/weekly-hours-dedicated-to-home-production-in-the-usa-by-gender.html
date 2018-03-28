@@ -33,5 +33,6 @@ Home production includes: planning, purchasing goods and services, care of child
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/weekly-hours-dedicated-to-home-production-in-the-usa-by-gender.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

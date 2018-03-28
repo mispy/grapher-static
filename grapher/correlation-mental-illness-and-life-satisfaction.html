@@ -33,5 +33,6 @@ Mental illness refers to depression and anxiety." /><meta name="twitter:image" c
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/correlation-mental-illness-and-life-satisfaction.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

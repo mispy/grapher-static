@@ -36,5 +36,6 @@ The estimates are not given for a particular year, but instead are based on all 
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/share-of-top-performing-students.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

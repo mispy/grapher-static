@@ -33,5 +33,6 @@ A single benchmark in 2011 makes these series suitable for studying the growth o
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/maddison-data-gdp-per-capita-in-2011us-single-benchmark.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

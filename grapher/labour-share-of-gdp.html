@@ -33,5 +33,6 @@ of GDP. It provides information about the relative share of output which is paid
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/labour-share-of-gdp.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

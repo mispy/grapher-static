@@ -33,5 +33,6 @@ Figures include expenditures for central, state and local governments." /><meta 
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/gov-procurement-share-gov-expenditure.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

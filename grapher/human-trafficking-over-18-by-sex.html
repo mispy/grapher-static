@@ -36,5 +36,6 @@ populations. This is shown for those aged 18 and older, by sex." /><meta name="t
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/human-trafficking-over-18-by-sex.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

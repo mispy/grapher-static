@@ -33,5 +33,6 @@ Figures include procurement for central, state and local governments." /><meta n
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/government-procurement-share-gdp.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

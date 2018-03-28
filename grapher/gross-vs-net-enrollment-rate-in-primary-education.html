@@ -33,5 +33,6 @@ The net enrollment rate is the ratio between all students in the theoretical age
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/gross-vs-net-enrollment-rate-in-primary-education.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

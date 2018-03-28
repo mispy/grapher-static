@@ -33,5 +33,6 @@ Before making cross-country comparisons please check the definitions on the 'Sou
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/inequality-of-incomes-chartbook.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

@@ -36,5 +36,6 @@ Colours represent world regions. Bubble sizes are proportional the total country
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/poverty-vs-life-expectancy.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

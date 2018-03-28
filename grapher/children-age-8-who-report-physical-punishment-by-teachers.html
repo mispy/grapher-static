@@ -33,5 +33,6 @@ at age 8. Reports combine the response categories ‘once or twice’ and ‘mos
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/children-age-8-who-report-physical-punishment-by-teachers.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

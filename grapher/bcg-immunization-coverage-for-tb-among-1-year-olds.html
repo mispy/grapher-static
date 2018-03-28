@@ -33,5 +33,6 @@ Data sources: Household surveys" /><meta name="twitter:image" content="https://m
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/bcg-immunization-coverage-for-tb-among-1-year-olds.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

@@ -33,5 +33,6 @@ Incomes are adjusted for price differences between countries to allow comparison
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/income-vs-type-of-political-regime.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

@@ -33,5 +33,6 @@ Political participation is defined as the percentage of the adult population tha
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/political-competition-vs-political-participation.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

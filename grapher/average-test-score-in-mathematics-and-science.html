@@ -36,5 +36,6 @@ The test scores are not given for a particular year, but instead are the average
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/average-test-score-in-mathematics-and-science.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

@@ -33,5 +33,6 @@ Child mortality is number of children dying before the 5th birthday (per 1,000 l
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/child-mortality-vs-type-of-political-regime.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

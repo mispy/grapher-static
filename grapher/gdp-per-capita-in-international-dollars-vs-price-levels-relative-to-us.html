@@ -33,5 +33,6 @@ Horizontal axis shows GDP per capita in 'international dollars'. It measures per
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/gdp-per-capita-in-international-dollars-vs-price-levels-relative-to-us.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

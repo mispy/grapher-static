@@ -33,5 +33,6 @@ Values are adjusted for inflation (constant at 1910/12 price level)." /><meta na
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/real-gdp-by-economic-sector-in-sweden-constant-SEK.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

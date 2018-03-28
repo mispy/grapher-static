@@ -33,5 +33,6 @@ solid waste generated." /><meta name="twitter:image" content="https://mispytest-
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/proportion-of-population-served-by-municipal-waste-collection.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

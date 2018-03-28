@@ -33,5 +33,6 @@ Both variables are measured in international dollars at 2011 PPP prices. This me
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/national-poverty-lines-vs-gdp-per-capita.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

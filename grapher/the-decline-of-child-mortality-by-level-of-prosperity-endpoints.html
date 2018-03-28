@@ -33,5 +33,6 @@ GDP per capita is adjusted for price changes over time and between countries (pr
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/the-decline-of-child-mortality-by-level-of-prosperity-endpoints.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

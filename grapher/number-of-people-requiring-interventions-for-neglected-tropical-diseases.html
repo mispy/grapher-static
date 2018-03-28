@@ -33,5 +33,6 @@ targeted by the WHO NTD Roadmap. This is not equal to the number of people at ri
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/number-of-people-requiring-interventions-for-neglected-tropical-diseases.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

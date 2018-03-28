@@ -33,5 +33,6 @@ frameworks that track the implementation of development effectiveness commitment
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/progress-in-multistakeholder-monitoring-frameworks.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

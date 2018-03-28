@@ -33,5 +33,6 @@ Future projections are based on the UN Population Division Medium Variant projec
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/history-and-future-world-population-by-total-fertility.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

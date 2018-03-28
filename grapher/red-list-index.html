@@ -51,5 +51,6 @@ species have gone extinct." /><meta name="twitter:image" content="https://mispyt
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/red-list-index.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

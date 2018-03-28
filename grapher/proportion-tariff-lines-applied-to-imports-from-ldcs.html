@@ -33,5 +33,6 @@ countries corresponding to a 0% tariff rate. A tariff line represents a particul
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/proportion-tariff-lines-applied-to-imports-from-ldcs.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

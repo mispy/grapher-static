@@ -30,5 +30,6 @@
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/gdp-per-capita-from-the-world-bank-in-constant-2011-international-vs-gdp-per-capita-from-the-maddison-project-in-2011us-single-benchmarks.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

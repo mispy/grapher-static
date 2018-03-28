@@ -33,5 +33,6 @@ On the y-axis: Number of children per 1,000 live births who die before reaching 
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/child-mortality-vs-share-of-children-immunized-against-diphtheria-pertussis-and-typhoid.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

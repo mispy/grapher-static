@@ -36,5 +36,6 @@ The test scores are here plotted agains GDP per capita in 2016, but the test sco
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/average-test-score-in-mathematics-and-science-vs-gdp-per-capita.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

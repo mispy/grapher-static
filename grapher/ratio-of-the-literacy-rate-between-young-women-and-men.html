@@ -33,5 +33,6 @@ These estimates refer to the population between 15-24 years." /><meta name="twit
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/ratio-of-the-literacy-rate-between-young-women-and-men.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

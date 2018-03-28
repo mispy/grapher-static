@@ -33,5 +33,6 @@ Each dot on the plot is a different country, and world regions are color-coded."
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/country-level-government-spending-vs-income.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

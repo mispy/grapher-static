@@ -33,5 +33,6 @@ Scores are on a scale of 0-100, where 0 means that a country is perceived as hig
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/TI-corruption-perception-index.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

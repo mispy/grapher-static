@@ -36,5 +36,6 @@ relating to the Status of National Institutions (The Paris Principles)." /><meta
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/countries-that-applied-for-accreditation-in-paris-principles.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

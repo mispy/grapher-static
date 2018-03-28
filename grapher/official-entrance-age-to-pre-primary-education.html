@@ -33,5 +33,6 @@ according to national legislation or policies. Where more than one age is specif
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/official-entrance-age-to-pre-primary-education.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

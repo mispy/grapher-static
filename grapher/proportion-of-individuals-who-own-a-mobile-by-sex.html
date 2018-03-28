@@ -42,5 +42,6 @@ expected to increase in the near future. " /><meta name="twitter:image" content=
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/proportion-of-individuals-who-own-a-mobile-by-sex.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>

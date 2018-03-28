@@ -33,5 +33,6 @@ Annual healthcare spending is adjusted for price changes over time and between c
         } catch (err) {
             figure.innerHTML = "<img src=\"/grapher/exports/the-decline-of-child-mortality-by-healtcare-spending-endpoints.svg\"/><p>Unable to load interactive visualization</p>";
             figure.setAttribute("id", "fallback");
+            throw err;
         }
     </script></body></html>
