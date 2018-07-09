@@ -28,12 +28,12 @@
         var script = document.createElement('script');
         script.type = 'text/javascript';
         script.onload = checkReady;
-        script.src = 'https://mispytest-grapher.netlify.com/grapher/assets/commons.bundle.da523acc49807a06a11f.js';
+        script.src = 'https://mispytest-grapher.netlify.com/grapher/assets/commons.bundle.ff3ba6b2d667f6d374cd.js';
         document.head.appendChild(script);
 
         var script = document.createElement('script');
         script.type = 'text/javascript';
         script.onload = checkReady;
-        script.src = 'https://mispytest-grapher.netlify.com/grapher/assets/charts.bundle.da523acc49807a06a11f.js';
+        script.src = 'https://mispytest-grapher.netlify.com/grapher/assets/charts.bundle.ff3ba6b2d667f6d374cd.js';
         document.head.appendChild(script);
     
