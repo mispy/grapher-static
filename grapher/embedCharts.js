@@ -5,7 +5,7 @@
         var link = document.createElement('link');
         link.type = 'text/css';
         link.rel = 'stylesheet';
-        link.href = 'https://mispytest-grapher.netlify.com/grapher/assets/commons.bundle.783ded608faf2690b6ab.css';
+        link.href = 'https://mispytest-grapher.netlify.com/grapher/assets/commons.bundle.4e02ece1b6302d65da2e.css';
         document.head.appendChild(link);
 
         var hasPolyfill = false;
@@ -28,12 +28,12 @@
         var script = document.createElement('script');
         script.type = 'text/javascript';
         script.onload = checkReady;
-        script.src = 'https://mispytest-grapher.netlify.com/grapher/assets/commons.bundle.783ded608faf2690b6ab.js';
+        script.src = 'https://mispytest-grapher.netlify.com/grapher/assets/commons.bundle.4e02ece1b6302d65da2e.js';
         document.head.appendChild(script);
 
         var script = document.createElement('script');
         script.type = 'text/javascript';
         script.onload = checkReady;
-        script.src = 'https://mispytest-grapher.netlify.com/grapher/assets/charts.bundle.783ded608faf2690b6ab.js';
+        script.src = 'https://mispytest-grapher.netlify.com/grapher/assets/charts.bundle.4e02ece1b6302d65da2e.js';
         document.head.appendChild(script);
     
