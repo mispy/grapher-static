@@ -1,6 +1,5 @@
 
         window.App = {};
-        window.Global = { rootUrl: 'https://mispytest-grapher.netlify.com/grapher' };
 
         var link = document.createElement('link');
         link.type = 'text/css';
