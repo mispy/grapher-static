@@ -33,6 +33,6 @@
         var script = document.createElement('script');
         script.type = 'text/javascript';
         script.onload = checkReady;
-        script.src = 'https://mispytest-grapher.netlify.com/grapher/assets/js/charts.js';
+        script.src = 'https://mispytest-grapher.netlify.com/grapher/assets/js/owid.js';
         document.head.appendChild(script);
     
